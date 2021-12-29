@@ -40,11 +40,11 @@ To learn more:
 wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
 ```
 <img src="icons/screenshots/main%20window.png?raw=true" align="right" height="270px"/>
-Supported systems:
+Supported operating systems:
 
-- Raspberry Pi OS 32-bit: fully supported.
-- Twister OS: fully supported.
-- Raspberry Pi OS 64-bit: fully supported.
+- Raspberry Pi OS 32/64-bit: fully supported.
+- Twister OS: fully supported, and included.
+- AmogOS: fully supported, and included.
 - Bullseye, Kali, Ubuntu: you may encounter errors for some apps.
 - Android, ChromeOS, non-ARM, non-Debian: Not supported. Your mileage may vary.
 
