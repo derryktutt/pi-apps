@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://github.com/Botspot/pi-apps/blob/master/icons/proglogo.png?raw=true" alt="Pi-Apps logo">
+    <a href="https://pi-apps.io">
+        <img src="https://github.com/Botspot/pi-apps/blob/master/icons/proglogo.png?raw=true" alt="Pi-Apps logo">
+    </a>
 </p>
 <p align="center">The most popular app store for Raspberry Pi computers. 100% free, open-source and written in shell scripts.
 <p align="center">
@@ -13,10 +15,13 @@
     Report an error</a>
   |
   <a href="https://github.com/Botspot/pi-apps/issues/new?template=suggestion.yml">
-    Submit a suggestion</a>
+    Make a general suggestion</a>
   |
-  <a href="https://github.com/Botspot/pi-apps/issues/new?template=app-request.yml">
-    Submit an app</a>
+  <a href="https://github.com/Botspot/pi-apps/issues/new?template=app-suggestion.yml">
+    Suggest new app</a>
+  |
+  <a href="https://github.com/Botspot/pi-apps/issues/new?template=app-submission.yml">
+    Submit a new app</a>
 
 <p align="center">
     <a href="https://github.com/Botspot/pi-apps/stargazers"><img src="https://img.shields.io/github/stars/Botspot/pi-apps" alt="stars"></a>
